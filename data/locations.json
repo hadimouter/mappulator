@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "Notre Dame de Paris",
+    "type": "church",
+    "coordinates": {
+      "latitude": 48.867,
+      "longitude": 2.328
+    }
+  },
+  {
+    "id": 2,
+    "name": "Mont Saint-Michel",
+    "type": "church",
+    "coordinates": {
+      "latitude": 48.634,
+      "longitude": -1.511
+    }
+  },
+  {
+    "id": 3,
+    "name": "Mont Blanc",
+    "type": "mountain",
+    "coordinates": {
+      "latitude": 45.831,
+      "longitude": 6.865
+    }
+  },
+  {
+    "id": 4,
+    "name": "Parc Astérix",
+    "type": "attraction",
+    "coordinates": {
+      "latitude": 49.134,
+      "longitude": 2.571
+    }
+  },
+  {
+    "id": 5,
+    "name": "So Ouest",
+    "type": "shopping",
+    "coordinates": {
+      "latitude": 48.893,
+      "longitude": 2.298
+    }
+  },
+  {
+    "id": 6,
+    "name": "Big Ben",
+    "type": "monument",
+    "coordinates": {
+      "latitude": 51.5,
+      "longitude": -1.124
+    }
+  },
+  {
+    "id": 7,
+    "name": "Googleplex",
+    "type": "business",
+    "coordinates": {
+      "latitude": 37.422,
+      "longitude": -122.084
+    }
+  },
+  {
+    "id": 8,
+    "name": "Big Ben",
+    "type": "monument",
+    "coordinates": {
+      "latitude": 51.5,
+      "longitude": -1.124
+    }
+  },
+  {
+    "id": 9,
+    "name": "Fourvière",
+    "type": "church",
+    "coordinates": {
+      "latitude": 45.762,
+      "longitude": 4.822
+    }
+  },
+  {
+    "id": 10,
+    "name": "Cdiscount",
+    "type": "business",
+    "coordinates": {
+      "latitude": 44.861,
+      "longitude": -0.552
+    }
+  },
+  {
+    "id": 11,
+    "name": "Fourvière",
+    "type": "church",
+    "coordinates": {
+      "latitude": 45.762,
+      "longitude": 4.822
+    }
+  },
+  {
+    "id": 12,
+    "name": "Ricard",
+    "type": "business",
+    "coordinates": {
+      "latitude": 43.306,
+      "longitude": 5.366
+    }
+  },
+  {
+    "id": 13,
+    "name": "Kilimanjaro",
+    "type": "mountain",
+    "coordinates": {
+      "latitude": -3.068,
+      "longitude": 37.355
+    }
+  }
+]
